@@ -1,1 +1,6 @@
-
+Scenario Due to increasing sales output in your San Diego distribution center, 
+management has decided to install a Warehouse Management System there. 
+The implementation is completed and now the new system needs to be tested. 
+For this purpose, finished goods should be requested from your manufacturing 
+facility in Dallas and put in stock in San Diego using the new warehouse 
+management system.
